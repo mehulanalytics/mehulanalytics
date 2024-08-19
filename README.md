@@ -1,6 +1,6 @@
 
 <h1>👋 Hi, there I’m Mehul</h1>
-<hr>
+
 <h2 style="font-family: 'Comic Sans MS', cursive; color: #4A90E2;">Welcome to my GitHub profile!</h2>
  I’m Mehul Purohit, a Data Analyst passionate about transforming data into actionable insights.
 Below a bit more about me:
