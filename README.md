@@ -1,6 +1,8 @@
 
 <h1>👋 Hi, there I’m Mehul</h1>
 
+![Modern Minimalist Creative Studio Name LinkedIn Article Cover Image](https://github.com/user-attachments/assets/a2f73170-cc07-4e8c-a193-71981cc7d4ee)
+
 
 <h2 style="font-family: 'Comic Sans MS', cursive; color: #4A90E2;">Welcome to my GitHub profile!</h2>
 
