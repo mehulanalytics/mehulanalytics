@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/862e8f1a-c633-4dfd-b9c8-71b015a3ca29)# 👋 Hi, I’m @mehulanalytics
+👋 Hi, I’m @mehulanalytics
 
 Welcome to my GitHub profile! I’m Mehul Purohit, a Data Analyst passionate about transforming data into actionable insights. Here’s a bit more about me:
 
