@@ -1,6 +1,8 @@
-👋 Hi, there I’m Mehul
+<font size=20>👋 Hi, there I’m Mehul</font>
+<hr>
 
-Welcome to my GitHub profile! I’m Mehul Purohit, a Data Analyst passionate about transforming data into actionable insights. Here’s a bit more about me:
+Welcome to my GitHub profile! I’m Mehul Purohit, a Data Analyst passionate about transforming data into actionable insights.
+Below a bit more about me:
 
 ## 👀 I’m interested in
 - Data analysis and visualization
