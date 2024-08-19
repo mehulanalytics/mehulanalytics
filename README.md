@@ -24,19 +24,8 @@ Welcome to my GitHub profile! I’m Mehul Purohit, a Data Analyst passionate abo
 - I once gave a presentation on data-driven decision-making at an international conference in Barcelona!
 
 ## Tools & Technologies
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### Programming Languages
-![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png)
-![MYSQL](https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg)
-
-### Data Platforms
-![SAP Datasphere](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQGt9TN4cKDbaHyH0pSuiWhsT_C0VggtJ8Vg&s)
-![Snowflake](https://logos-world.net/wp-content/uploads/2022/11/Snowflake-Symbol.png)
-![SAP Analytics Cloud](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhiBrKB3VDXPYCDwalP6LoPQ-q8d3T1zcXRw&s)
-
-### Tools
-![Microsoft Power Apps](https://miro.medium.com/v2/resize:fit:828/format:webp/1*Z7L6vq32jndgdY88sSIvbw.png)
-![Power BI](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png)
 
 
 
