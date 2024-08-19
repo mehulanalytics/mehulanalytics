@@ -1,7 +1,7 @@
 <font size=50>👋 Hi, there I’m Mehul</font>
 <hr>
-
-Welcome to my GitHub profile! I’m Mehul Purohit, a Data Analyst passionate about transforming data into actionable insights.
+<h1 style="font-family: 'Comic Sans MS', cursive; color: #4A90E2;">Welcome to my GitHub profile!</h1>
+ I’m Mehul Purohit, a Data Analyst passionate about transforming data into actionable insights.
 Below a bit more about me:
 
 ## 👀 I’m interested in
