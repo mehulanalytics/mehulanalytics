@@ -1,4 +1,4 @@
-👋 Hi, I’m @mehulanalytics
+👋 Hi, there I’m Mehul
 
 Welcome to my GitHub profile! I’m Mehul Purohit, a Data Analyst passionate about transforming data into actionable insights. Here’s a bit more about me:
 
