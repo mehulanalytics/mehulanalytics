@@ -1,4 +1,4 @@
-<font size=20>👋 Hi, there I’m Mehul</font>
+<font size=50>👋 Hi, there I’m Mehul</font>
 <hr>
 
 Welcome to my GitHub profile! I’m Mehul Purohit, a Data Analyst passionate about transforming data into actionable insights.
