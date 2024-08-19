@@ -2,8 +2,10 @@
 <h1>👋 Hi, there I’m Mehul</h1>
 
 <h2 style="font-family: 'Comic Sans MS', cursive; color: #4A90E2;">Welcome to my GitHub profile!</h2>
- I’m Mehul Purohit, a Data Analyst passionate about transforming data into actionable insights.
-Below a bit more about me:
+![Modern Minimalist Creative Studio Name LinkedIn Article Cover Image](https://github.com/user-attachments/assets/baeb83d2-1ccf-43fb-8777-2d49457cc9dd)
+
+<b> I’m Mehul Purohit, a Data Analyst passionate about transforming data into actionable insights.
+Below a bit more about me:</b>
 
 ## 👀 I’m interested in
 - Data analysis and visualization
