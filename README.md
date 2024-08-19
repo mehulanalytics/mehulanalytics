@@ -1,21 +1,7 @@
- <style>
-        .welcome {
-            font-family: Arial, sans-serif;
-            font-size: 2rem;
-            text-align: center;
-            color: #333;
-            background: linear-gradient(45deg, #f06, #4a90e2);
-            -webkit-background-clip: text;
-            color: transparent;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-        }
-    </style>
-<font size=50>👋 Hi, there I’m Mehul</font>
-<hr>
-  <div class="welcome">Welcome to my GitHub</div>
 
+<h1>👋 Hi, there I’m Mehul</h1>
+<hr>
+<h2 style="font-family: 'Comic Sans MS', cursive; color: #4A90E2;">Welcome to my GitHub profile!</h2>
  I’m Mehul Purohit, a Data Analyst passionate about transforming data into actionable insights.
 Below a bit more about me:
 
